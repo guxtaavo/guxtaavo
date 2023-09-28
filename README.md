@@ -24,10 +24,6 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-</div><br>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavonlopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:gustaavo.nunesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
