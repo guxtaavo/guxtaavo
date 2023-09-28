@@ -11,6 +11,14 @@
   
 </div>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <div align="center">
   <a href="https://github.com/guxtaavo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guxtaavo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
