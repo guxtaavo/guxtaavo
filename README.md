@@ -1,25 +1,15 @@
-<div>
+<div align="center">
+  <h1>Olá, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gustavonlopes/">Gustavo Nunes 😎</a></h1>
   
-  <h1 align="center">
-    Olá, tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/gustavonlopes/">Gustavo Nunes 😎</a>
-  </h1>
-  
-  <p align="center">
-    Sou estudante de Engenharia Elétrica na Universidade Federal do Espírito Santo. 
-  </p>
-  
+  <p>Sou estudante de Engenharia Elétrica na Universidade Federal do Espírito Santo.</p>
 </div>
 
 <div align="center">
   <a href="https://github.com/guxtaavo">
     <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guxtaavo&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=guxtaavo&show_icons=true" />
-</picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=guxtaavo&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+      <img src="https://github-readme-stats.vercel.app/api?username=guxtaavo&show_icons=true" />
+    </picture>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxtaavo&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
@@ -30,9 +20,7 @@
 </div>
 
 <div align="center">
-
-  ![Snake animation](https://github.com/guxtaavo/guxtaavo/blob/output/github-contribution-grid-snake.svg)
-  
+  <img src="https://github.com/guxtaavo/guxtaavo/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
