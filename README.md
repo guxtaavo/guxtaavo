@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Olá, tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/gustavonlopes/">Gustavo Nunes 😎</a>
   </h1>
   
   <p align="center">
-    Sou estudante de Engenharia Elétrica na Universidade Federal do Espírito Santo e também de programação. 
+    Sou estudante de Engenharia Elétrica na Universidade Federal do Espírito Santo. 
   </p>
   
 </div>
