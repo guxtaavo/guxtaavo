@@ -1,7 +1,8 @@
 <div>
   
   <h1 align="center">
-    Olá, tudo bem? Eu sou o 
+    👋 Hello! Welcome to my Github profile.
+    My name is
     <a href="https://www.linkedin.com/in/gustavonlopes/">Gustavo Nunes 😎</a>
   </h1>
   
