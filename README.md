@@ -12,17 +12,10 @@
   
 </div>
 
-<div align="center">
+<div>
   <a href="https://github.com/guxtaavo">
-    <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=guxtaavo&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=guxtaavo&show_icons=true" />
-</picture>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxtaavo&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?guxtaavo&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?guxtaavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
@@ -30,12 +23,4 @@
   <a href="mailto:gustaavo.nunesdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/guxtaavo/guxtaavo/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
