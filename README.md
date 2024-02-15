@@ -1,16 +1,15 @@
-<div>
-  <h1 align="center">
+<h1 align="center">
     👋 Hello! Welcome to my Github profile.
     My name is
     <a href="https://www.linkedin.com/in/gustavonlopes/">Gustavo Nunes 😎</a>
-  </h1>
+</h1>
   
-  <p align="center">
-    I am a student of Electrical Engineering at the Federal University of Espírito Santo.
-  </p>
+<p align="center">
+    I am a student of Electrical Engineering at the Federal University of Espírito Santo. 
+</p>
 </div>
 
-<div>
+<div align="center" style="margin-top: 20px; display: flex; justify-content: space-around;">
   <a href="https://github.com/guxtaavo">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxtaavo&layout=compact&langs_count=7&theme=dracula"/>
   </a>
