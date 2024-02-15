@@ -12,10 +12,10 @@
 
 <div>
   <a href="https://github.com/guxtaavo">
-    <img loading="lazy" height="180em" align="center" style="margin-top: 20px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxtaavo&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guxtaavo&layout=compact&langs_count=7&theme=dracula"/>
   </a>
   <a href="https://github.com/guxtaavo">
-    <img loading="lazy" height="180em" align="center" style="margin-top: 20px; src="https://github-readme-stats.vercel.app/api?username=guxtaavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guxtaavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
