@@ -1,4 +1,17 @@
-<h2 align="left">Hi 👋! My name is Gustavo and i'm an Electrical Engineering student at UFES </h2>
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+</div>
+
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Gustavo!
+
+  - 🌱 I’m currently studying Electrical Engineering at the UFES. 
+
+  - 🔭 I'm very interested in technology and I'm a fan of Rio Branco Atlético Clube 🏴🏳️.
+</p>
 
 ###
 
