@@ -8,7 +8,9 @@
 <p>
   Hi 👋, I'm Gustavo!
 
-  - 🌱 I’m currently studying Electrical Engineering at the UFES. 
+  - 🌱 I’m currently studying Electrical Engineering at the UFES.
+
+  - I'm also working on Labtel - UFES.
 
   - 🔭 I'm very interested in technology and I'm a fan of Rio Branco Atlético Clube 🏴🏳️.
 </p>
